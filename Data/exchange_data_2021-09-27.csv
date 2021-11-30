@@ -1,0 +1,691 @@
+,ISIN,ticker,name_of_shares,type_of_shares,may_shorted,long_risk,short_risk
+0,RU000A0JSQ90,DSKY,Детский МирDSKY, Акции,Доступен,20.08 , 25.44
+1,RU000A0F5UN3,ENRU,Энел РоссияENRU, Акции,Доступен,20.08 , 25.44
+2,RU0009100507,NKNC,НижнекамскнефтехимNKNC, Акции,Нет,21.04 , 36.56
+3,RU0006765096,NKNCP,Нижнекамскнефтехим - акции привилегированныеNKNCP, Акции,Нет,20.42 , 24.48
+4,RU000A0JPVK8,RSTIP,Российские сети - акции привилегированныеRSTIP, Акции,Нет,20.08 , 22.32
+5,RU0008959580,KMAZ,КАМАЗKMAZ, Акции,Нет,20.08 , 62.56
+6,RU0009034490,LSNG,ЛенэнергоLSNG, Акции,Нет,100 , 100
+7,RU0009092134,LSNGP,Ленэнерго - акции привилегированныеLSNGP, Акции,Нет,20.08 , 22.32
+8,RU0009036479,MGTSP,МГТС - акции привилегированныеMGTSP, Акции,Нет,20.08 , 22.32
+9,RU0008992318,FESH,ДВМПFESH, Акции,Нет,20.79 , 38.09
+10,RU000A0JNUD0,TGKA,ТГК-1TGKA, Акции,Доступен,20.08 , 25.44
+11,RU0009100945,BSPB,Банк Санкт-ПетербургBSPB, Акции,Нет,20.08 , 22.32
+12,US52634T2006,LNTA,ЛентаLNTA, Акции,Доступен,75 , 125
+13,RU000A0JNAA8,PLZL,Полюс ЗолотоPLZL, Акции,Доступен,20.08 , 25.44
+14,RU000A0HM5C1,TTLK,ТаттелекомTTLK, Акции,Нет,20.08 , 22.32
+15,RU000A0B88G6,AMEZ,Ашинский метзаводAMEZ, Акции,Нет,22.91 , 45.3
+16,RU000A0JNG55,OGKB,Вторая генерирующая компания оптового рынка электроэнергииOGKB, Акции,Доступен,20.08 , 25.44
+17,RU000A0JL4R1,GCHE,Группа ЧеркизовоGCHE, Акции,Нет,20.08 , 29.5
+18,RU000A0JP1N2,LNZL,ЛензолотоLNZL, Акции,Нет,31.28 , 107.36
+19,RU000A0JPN96,MRKP,МРСК Центра и ПриволжьяMRKP, Акции,Нет,20.08 , 25.44
+20,RU000A0JPPL8,MRKC,МРСК ЦентраMRKC, Акции,Нет,20.08 , 22.32
+21,RU000A0JXKG3,ORUP,Обувь РоссииORUP, Акции,Нет,43.25 , 144.64
+22,RU000A0JPR50,SELG,СелигдарSELG, Акции,Нет,20.08 , 22.32
+23,RU0009089825,KZOS,ПАО «КАЗАНЬОРГСИНТЕЗ»KZOS, Акции,Нет,20.08 , 27.85
+24,RU0006753456,KZOSP,ПАО «КАЗАНЬОРГСИНТЕЗ» - акции привилегированныеKZOSP, Акции,Нет,33.4 , 92.99
+25,RU0009100416,KRKNP,Саратовский НПЗ - акции привилегированныеKRKNP, Акции,Нет,20.08 , 22.32
+26,RU000A0JS5T7,ABRD,АбрауДюрсоABRD, Акции,Нет,20.08 , 28.69
+27,RU000A0JR4A1,MOEX,Московская БиржаMOEX, Акции,Доступен,20.08 , 25.44
+28,RU0009029540,SBER,Сбер БанкSBER, Акции,Доступен,20.08 , 25.44
+29,RU0007661625,GAZP,ГазпромGAZP, Акции,Доступен,20.08 , 25.44
+30,RU000A0JP5V6,VTBR,Банк ВТБVTBR, Акции,Доступен,20.08 , 25.44
+31,RU0009024277,LKOH,ЛУКОЙЛLKOH, Акции,Доступен,20.08 , 25.44
+32,RU000A0J2Q06,ROSN,РоснефтьROSN, Акции,Доступен,20.08 , 25.44
+33,RU0007288411,GMKN,Норильский никельGMKN, Акции,Доступен,20.08 , 25.44
+34,RU0008926258,SNGS,СургутнефтегазSNGS, Акции,Доступен,20.08 , 25.44
+35,RU0009029557,SBERP,Сбер Банк - привилегированные акцииSBERP, Акции,Доступен,20.08 , 25.44
+36,RU000A0JPNN9,FEES,ФСК ЕЭСFEES, Акции,Доступен,20.08 , 25.44
+37,RU000A0JPKH7,HYDR,РусГидроHYDR, Акции,Доступен,20.08 , 25.44
+38,RU0009046510,CHMF,СеверстальCHMF, Акции,Доступен,20.08 , 25.44
+39,RU0009091573,TRNFP,ТранснефтьTRNFP, Акции,Доступен,20.08 , 25.44
+40,RU000A0DKVS5,NVTK,НОВАТЭКNVTK, Акции,Доступен,20.08 , 25.44
+41,JE00B6T5S470,POLY,PolymetalPOLY, Акции,Доступен,20.08 , 25.44
+42,RU000A0JKQU8,MGNT,МагнитMGNT, Акции,Доступен,20.08 , 25.44
+43,RU0009033591,TATN,ТатнефтьTATN, Акции,Доступен,20.08 , 25.44
+44,RU0009046452,NLMK,НЛМКNLMK, Акции,Доступен,20.08 , 25.44
+45,RU0009029524,SNGSP,Сургутнефтегаз - привилегированные акцииSNGSP, Акции,Доступен,20.08 , 25.44
+46,RU0007775219,MTSS,МТСMTSS, Акции,Доступен,20.08 , 25.44
+47,RU000A0JPVJ0,RSTI,Российские сетиRSTI, Акции,Доступен,20.08 , 25.44
+48,RU0008943394,RTKM,РостелекомRTKM, Акции,Доступен,20.08 , 25.44
+49,RU0009062285,AFLT,АэрофлотAFLT, Акции,Доступен,20.08 , 25.44
+50,RU000A0JPNM1,IRAO,Интер РАО ЕЭСIRAO, Акции,Доступен,20.08 , 25.44
+51,RU0009062467,SIBN,Газпром нефтьSIBN, Акции,Доступен,20.08 , 25.44
+52,RU0009084396,MAGN,Магнитогорский металлургический комбинатMAGN, Акции,Доступен,20.08 , 25.44
+53,RU000A0DKXV5,MTLR,МечелMTLR, Акции,Доступен,36 , 75.54
+54,RU0009046700,RTKMP,Ростелеком - Привилегированные акцииRTKMP, Акции,Доступен,20.08 , 25.44
+55,RU000A0DQZE3,AFKS,АФК СистемаAFKS, Акции,Доступен,20.08 , 25.44
+56,RU000A0B90N8,RASP,РаспадскаяRASP, Акции,Доступен,20.08 , 48.57
+57,RU0007976965,BANEP,Башнефть - привилегированные акцииBANEP, Акции,Доступен,20.08 , 25.44
+58,RU000A0JNGA5,UPRO,ЮнипроUPRO, Акции,Доступен,20.08 , 25.44
+59,RU0007976957,BANE,БашнефтьBANE, Акции,Доступен,20.08 , 25.44
+60,RU0008958863,MSNG,МосэнергоMSNG, Акции,Нет,20.08 , 22.32
+61,RU0006944147,TATNP,Татнефть - привилегированные акцииTATNP, Акции,Доступен,20.08 , 25.44
+62,RU0009028674,AKRN,АкронAKRN, Акции,Нет,20.08 , 26.32
+63,RU000A0JRKT8,PHOR,ФосАгроPHOR, Акции,Доступен,20.08 , 25.44
+64,RU0007252813,ALRS,АЛРОСАALRS, Акции,Доступен,20.08 , 25.44
+65,RU000A0JP7J7,PIKK,ПИКPIKK, Акции,Доступен,20.08 , 25.44
+66,RU0009084446,NMTP,НМТПNMTP, Акции,Нет,20.08 , 22.32
+67,RU000A0JPFP0,LSRG,Группа ЛСРLSRG, Акции,Доступен,20.08 , 25.44
+68,RU000A0JPGA0,MVID,М.ВидеоMVID, Акции,Доступен,20.08 , 25.44
+69,RU0009100291,VSMO,ВСМПО-АВИСМАVSMO, Акции,Нет,20.08 , 22.32
+70,RU000A0JPV70,MTLRP,Мечел - Привилегированные акцииMTLRP, Акции,Доступен,36 , 61.85
+71,RU000A0B6NK6,TRMK,Трубная Металлургическая КомпанияTRMK, Акции,Нет,32.1 , 54.8
+72,RU000A0JU1B0,ROLO,РусоловоROLO, Акции,Нет,26.04 , 39.43
+73,US74735M1080,QIWI,QIWIQIWI, Акции,Нет,43.75 , 56.25
+74,NL0009805522,YNDX,YandexYNDX, Акции,Доступен,20.08 , 25.44
+75,US7496552057,AGRO,РусАгроAGRO, Акции,Доступен,75 , 125
+76,RU000A1025V3,RUAL,РУСАЛRUAL, Акции,Доступен,20.08 , 30.44
+77,RU000A0JVBT9,UWGN,ОВКUWGN, Акции,Нет,30.56 , 102.09
+78,RU000A0JUG31,CBOM,МКБCBOM, Акции,Доступен,20.08 , 25.44
+79,RU000A0JSE60,RNFT,РуссНефтьRNFT, Акции,Нет,20.08 , 31.26
+80,US98387E2054,FIVE@GS,ГДР X5 RetailGroupFIVE, Акции,Доступен,26.04 , 29.96
+81,US5603172082,MAIL@GS,MAIL.RUMAIL, Акции,Доступен,20.08 , 25.44
+82,US37949E2046,GLTR@GS,Globaltrans Investment PLCGLTR, Акции,Нет,20.08 , 22.32
+83,RU000A0JQTS3,AQUA,Русская аквакультураAQUA, Акции,Нет,20.08 , 22.32
+84,RU000A0JR514,LIFE,ФармсинтезLIFE, Акции,Нет,22.56 , 25.57
+85,RU000A0JNAB6,ISKJ,ИСКЧISKJ, Акции,Нет,31.94 , 56.18
+86,RU000A0JP1P7,LNZLP,Лензолото - привилегированные акцииLNZLP, Акции,Нет,36.38 , 96.7
+87,RU000A100K72,ENPG,En+ GroupENPG, Акции,Нет,20.08 , 22.32
+88,GB0031544546,POGR,Petropavlovsk PLCPOGR, Акции,Нет,20.08 , 25.24
+89,RU000A0HL5M1,BELU,Белуга Групп ПАО аоBELU, Акции,Нет,30.41 , 125
+90,RU000A0ZZG02,SMLT,ГК СамолетSMLT, Акции,Нет,22.56 , 48.67
+91,US69269L1044,OZON,Ozon Holdings PLCOZON, Акции,Доступен,91 , 189
+92,US33835G2057,FIXP,Fix Price GroupFIXP, Акции,Нет,75 , 125
+93,RU000A102XG9,SGZH,СегежаSGZH, Акции,Нет,34.71 , 76.89
+94,RU000A0JXNU8,FLOT,СовкомфлотFLOT, Акции,Нет,20.08 , 22.32
+95,US91085A2033,GEMC,United medical groupGEMC, Акции,Доступен,100 , 300
+96,US55279C2008,MDMG,ГК Мать и дитяMDMG, Акции,Нет,20.08 , 22.32
+97,US0236081024,AEE,AmerenAEE, Акции,Нет,20.08 , 25.44
+98,US0378331005,AAPL,AppleAAPL, Акции,Доступен,20.08 , 25.44
+99,US03027X1000,AMT,American TowerAMT, Акции,Доступен,20.08 , 25.44
+100,US0320951017,APH,AmphenolAPH, Акции,Нет,20.08 , 25.44
+101,US74340W1036,PLD,PrologisPLD, Акции,Нет,20.08 , 25.44
+102,US0028241000,ABT,AbbottABT, Акции,Доступен,20.08 , 25.44
+104,US3434121022,FLR,FluorFLR, Акции,Нет,59.04 , 53.76
+105,US00724F1012,ADBE,AdobeADBE, Акции,Доступен,20.08 , 25.44
+106,US9598021098,WU,Western UnionWU, Акции,Доступен,20.08 , 25.44
+107,LR0008862868,RCL,Royal Caribbean CruisesRCL, Акции,Доступен,29.44 , 34.56
+108,US0326541051,ADI,Analog DevicesADI, Акции,Нет,20.08 , 25.44
+109,US59156R1086,MET,MetLifeMET, Акции,Доступен,20.08 , 25.44
+110,US0394831020,ADM,Archer-Daniels-Midland CompanyADM, Акции,Доступен,20.08 , 25.44
+111,US0010551028,AFL,Aflac IncorporatedAFL, Акции,Нет,20.08 , 25.44
+112,US7739031091,ROK,Rockwell AutomationROK, Акции,Нет,20.08 , 25.44
+113,US42809H1077,HES,HessHES, Акции,Нет,25.18 , 28.82
+114,US1924461023,CTSH,Cognizant Technology SolutionsCTSH, Акции,Нет,20.08 , 25.44
+115,US0268747849,AIG,American International GroupAIG, Акции,Доступен,20.08 , 25.44
+116,US91913Y1001,VLO,Valero Energy CorporationVLO, Акции,Доступен,20.08 , 29.96
+117,US67066G1040,NVDA,NVIDIANVDA, Акции,Доступен,26.9 , 31.1
+118,US0116591092,ALK,Alaska Air GroupALK, Акции,Доступен,20.08 , 25.44
+119,US2371941053,DRI,Darden RestaurantsDRI, Акции,Доступен,20.08 , 25.44
+120,US0382221051,AMAT,Applied MaterialsAMAT, Акции,Доступен,22.56 , 25.44
+121,US0079031078,AMD,AMDAMD, Акции,Доступен,41.48 , 52.52
+122,US0311621009,AMGN,AmgenAMGN, Акции,Доступен,20.08 , 25.44
+123,US25179M1036,DVN,Devon EnergyDVN, Акции,Доступен,29.44 , 36.89
+125,US0152711091,ARE,Alexandria Real Estate EquitiesARE, Акции,Доступен,20.08 , 25.44
+126,US0091581068,APD,Air Products & ChemicalsAPD, Акции,Нет,20.08 , 25.44
+127,US0367521038,ANTM,AnthemANTM, Акции,Нет,20.08 , 25.44
+128,US0258161092,AXP,American ExpressAXP, Акции,Доступен,20.08 , 25.44
+129,US0970231058,BA,BOEINGBA, Акции,Доступен,20.08 , 26.56
+130,US0605051046,BAC,Bank of America CorpBAC, Акции,Доступен,20.08 , 25.44
+131,US98389B1008,XEL,Xcel EnergyXEL, Акции,Нет,20.08 , 25.44
+132,US0718131099,BAX,Baxter InternationalBAX, Акции,Нет,20.08 , 25.44
+133,US0865161014,BBY,Best Buy Co.BBY, Акции,Доступен,20.08 , 25.44
+134,US0758871091,BDX,Becton, Акции,Нет,20.08 , 25.44
+135,US3546131018,BEN,Franklin ResourcesBEN, Акции,Доступен,20.08 , 25.44
+136,US0640581007,BK,Bank of New York MellonBK, Акции,Доступен,20.08 , 25.44
+137,US0584981064,BLL,Ball CorporationBLL, Акции,Доступен,20.08 , 25.44
+138,US15135B1017,CNC,Centene CorporationCNC, Акции,Доступен,26.04 , 36.89
+139,US1491231015,CAT,CaterpillarCAT, Акции,Доступен,20.08 , 25.44
+140,PA1436583006,CCL,CarnivalCCL, Акции,Доступен,24.31 , 32.25
+141,US1567821046,CERN,CernerCERN, Акции,Нет,20.08 , 25.44
+142,US3364331070,FSLR,First SolarFSLR, Акции,Доступен,30.28 , 35.72
+143,US0185811082,ADS,Alliance Data SystemsADS, Акции,Доступен,20.08 , 34.56
+144,US1720621010,CINF,Cincinnati Financial CorporationCINF, Акции,Доступен,20.08 , 25.44
+145,US1941621039,CL,Colgate-PalmoliveCL, Акции,Нет,20.08 , 25.44
+146,US1858991011,CLF,Cleveland-CliffsCLF, Акции,Доступен,84 , 156
+147,US1890541097,CLX,The Clorox CompanyCLX, Акции,Нет,20.08 , 25.44
+148,US20030N1019,CMCSA,ComcastCMCSA, Акции,Доступен,20.08 , 25.44
+149,US61945C1036,MOS,MosaicMOS, Акции,Доступен,22.56 , 25.44
+150,US5719032022,MAR,Marriott InternationalMAR, Акции,Доступен,20.08 , 25.44
+151,US92343E1029,VRSN,VeriSignVRSN, Акции,Нет,20.08 , 25.44
+152,US14040H1059,COF,Capital OneCOF, Акции,Нет,20.08 , 25.44
+153,US5502411037,LUMN,Lumen TechnologiesLUMN, Акции,Нет,22.56 , 25.44
+154,US2310211063,CMI,CumminsCMI, Акции,Нет,20.08 , 25.44
+155,US1266501006,CVS,CVS Health CorporationCVS, Акции,Доступен,20.08 , 25.44
+156,US5732841060,MLM,Martin Marietta MaterialsMLM, Акции,Нет,20.08 , 25.44
+157,US67103H1077,ORLY,O'Reilly AutomotiveORLY, Акции,Нет,20.08 , 25.44
+158,US2441991054,DE,Deere & CompanyDE, Акции,Нет,20.08 , 25.44
+159,US6687711084,NLOK,NortonLifeLock IncNLOK, Акции,Нет,100 , 100
+160,US9884981013,YUM,Yum!YUM, Акции,Доступен,20.08 , 25.44
+161,US2358511028,DHR,DanaherDHR, Акции,Доступен,20.08 , 25.44
+162,US2546871060,DIS,Walt DisneyDIS, Акции,Доступен,20.08 , 25.44
+163,US4612021034,INTU,IntuitINTU, Акции,Нет,20.08 , 25.44
+164,CH0048265513,RIG,TransoceanRIG, Акции,Нет,100 , 100
+165,US5950171042,MCHP,Microchip TechnologyMCHP, Акции,Нет,20.08 , 25.44
+166,US2788651006,ECL,EcolabECL, Акции,Нет,100 , 100
+167,US12572Q1058,CME,CME GROUPCME, Акции,Доступен,20.08 , 25.44
+168,US2091151041,ED,Consolidated EdisonED, Акции,Доступен,20.08 , 25.44
+169,US5854641009,MLCO,Melco Resorts & EntertainmentMLCO, Акции,Доступен,30.28 , 35.72
+170,US2944291051,EFX,EquifaxEFX, Акции,Нет,20.08 , 25.44
+171,US82935M1099,SHI,Sinopec Shanghai PetrochemicalSHI, Акции,Доступен,30.28 , 35.72
+172,US2910111044,EMR,Emerson ElectricEMR, Акции,Доступен,20.08 , 25.44
+173,US26884L1098,EQT,EQT CorporationEQT, Акции,Доступен,25.18 , 26.56
+174,US0126531013,ALB,AlbemarleALB, Акции,Доступен,22.56 , 25.44
+175,US8288061091,SPG,Simon Property GroupSPG, Акции,Доступен,20.08 , 25.44
+176,IE00B8KQN827,ETN,Eaton CorporationETN, Акции,Нет,20.08 , 25.44
+177,US00508Y1029,AYI,Acuity BrandsAYI, Акции,Нет,25.18 , 28.82
+178,US89417E1091,TRV,Travelers CosTRV, Акции,Нет,20.08 , 25.44
+179,US3119001044,FAST,Fastenal CompanyFAST, Акции,Нет,20.08 , 25.44
+180,US35671D8570,FCX,Freeport-McMoRanFCX, Акции,Доступен,39.16 , 48.84
+181,US31428X1063,FDX,FedExFDX, Акции,Доступен,20.08 , 25.44
+182,US3377381088,FISV,FiservFISV, Акции,Нет,20.08 , 25.44
+183,US3167731005,FITB,Fifth Third BancorpFITB, Акции,Нет,20.08 , 25.44
+184,US3024913036,FMC,FMCFMC, Акции,Нет,20.08 , 25.44
+185,US46120E6023,ISRG,Intuitive SurgicalISRG, Акции,Нет,20.08 , 25.44
+186,US00971T1016,AKAM,Akamai TechnologiesAKAM, Акции,Нет,20.08 , 25.44
+187,US65339F1012,NEE,NextEra EnergyNEE, Акции,Доступен,20.08 , 25.44
+188,US31620M1062,FIS,Fidelity National InformationFIS, Акции,Нет,20.08 , 25.44
+189,US3695501086,GD,General DynamicsGD, Акции,Доступен,20.08 , 25.44
+190,US3696043013,GE,General Electric CompanyGE, Акции,Нет,22.56 , 25.44
+191,US3703341046,GIS,General MillsGIS, Акции,Нет,20.08 , 25.44
+192,US8574771031,STT,State StreetSTT, Акции,Нет,20.08 , 25.44
+193,US2193501051,GLW,CorningGLW, Акции,Доступен,20.08 , 25.44
+194,US3647601083,GPS,GapGPS, Акции,Доступен,26.9 , 31.1
+195,US3825501014,GT,Goodyear Tire & RubberGT, Акции,Доступен,20.08 , 28.82
+196,US98956P1021,ZBH,Zimmer Biomet HoldingsZBH, Акции,Нет,20.08 , 25.44
+197,US3848021040,GWW,WW GraingerGWW, Акции,Нет,20.08 , 25.44
+198,US4062161017,HAL,HalliburtonHAL, Акции,Доступен,22.56 , 27.69
+199,US4180561072,HAS,HasbroHAS, Акции,Доступен,20.08 , 25.44
+200,US4461501045,HBAN,Huntington BancsharesHBAN, Акции,Доступен,20.08 , 25.44
+201,US95040Q1040,WELL,WelltowerWELL, Акции,Доступен,20.08 , 25.44
+202,US4370761029,HD,The Home DepotHD, Акции,Доступен,20.08 , 25.44
+203,US4128221086,HOG,Harley-DavidsonHOG, Акции,Доступен,22.56 , 28.82
+205,US9170471026,URBN,Urban OutfittersURBN, Акции,Нет,34.39 , 42.8
+206,US5543821012,MAC,MacerichMAC, Акции,Доступен,42.24 , 66.41
+207,US09857L1089,BKNG,BookingBKNG, Акции,Доступен,20.08 , 25.44
+208,US5024311095,LHX,L3Harris Technologies IncLHX, Акции,Доступен,20.08 , 25.44
+209,US4278661081,HSY,HersheyHSY, Акции,Нет,20.08 , 25.44
+210,US4448591028,HUM,HumanaHUM, Акции,Нет,20.08 , 25.44
+211,US1431301027,KMX,CarMaxKMX, Акции,Нет,22.56 , 25.44
+212,US78440P1084,SKM,SK Telecom Co.SKM, Акции,Нет,20.08 , 25.44
+213,US4592001014,IBM,IBMIBM, Акции,Доступен,20.08 , 25.44
+214,US0534841012,AVB,AvalonBay CommunitiesAVB, Акции,Нет,20.08 , 25.44
+215,US45168D1046,IDXX,IDEXXIDXX, Акции,Доступен,20.08 , 25.44
+216,US4595061015,IFF,International Flavors & FragrancesIFF, Акции,Нет,20.08 , 25.44
+217,US8923561067,TSCO,Tractor SupplyTSCO, Акции,Нет,20.08 , 25.44
+218,US6174464486,MS,Morgan StanleyMS, Акции,Доступен,20.08 , 25.44
+219,US29273V1008,ET,Energy Transfer LPET, Акции,Доступен,44.5 , 57.5
+220,US4601461035,IP,International PaperIP, Акции,Нет,20.08 , 25.44
+221,IE00BK9ZQ967,TT,Trane TechnologiesTT, Акции,Нет,100 , 100
+222,US0527691069,ADSK,AutodeskADSK, Акции,Доступен,26.9 , 31.1
+223,US4523081093,ITW,Illinois Tool WorksITW, Акции,Нет,20.08 , 25.44
+224,US4456581077,JBHT,JB HuntJBHT, Акции,Нет,20.08 , 25.44
+225,US4781601046,JNJ,Johnson & JohnsonJNJ, Акции,Доступен,20.08 , 25.44
+226,US4878361082,K,KelloggK, Акции,Нет,20.08 , 25.44
+227,US4932671088,KEY,KeyCorpKEY, Акции,Доступен,20.08 , 25.44
+228,US4824801009,KLAC,KLA-TencorKLAC, Акции,Нет,22.56 , 25.44
+229,US4943681035,KMB,Kimberly-ClarkKMB, Акции,Доступен,20.08 , 25.44
+230,US1912161007,KO,COCA-COLAKO, Акции,Доступен,20.08 , 25.44
+231,US5010441013,KR,KrogerKR, Акции,Доступен,20.08 , 25.44
+232,US79466L3024,CRM,SalesforceCRM, Акции,Доступен,20.08 , 25.44
+233,US5260571048,LEN,LennarLEN, Акции,Нет,20.08 , 25.44
+234,US5324571083,LLY,Eli Lilly & CoLLY, Акции,Доступен,20.08 , 33.4
+235,US5486611073,LOW,Lowe'sLOW, Акции,Доступен,20.08 , 25.44
+236,US5128071082,LRCX,Lam ResearchLRCX, Акции,Доступен,22.56 , 25.44
+237,US6549022043,NOK,NokiaNOK, Акции,Нет,27.75 , 36.89
+239,US8447411088,LUV,Southwest AirlinesLUV, Акции,Доступен,20.08 , 25.44
+240,US5745991068,MAS,MascoMAS, Акции,Доступен,20.08 , 25.44
+241,US45337C1027,INCY,IncyteINCY, Акции,Доступен,29.44 , 34.56
+242,US5801351017,MCD,Mc'DONALDSMCD, Акции,Доступен,20.08 , 25.44
+243,IE00BTN1Y115,MDT,MedtronicMDT, Акции,Доступен,20.08 , 25.44
+244,US2855121099,EA,Electronic ArtsEA, Акции,Доступен,20.08 , 25.44
+245,US78409V1044,SPGI,S&P GlobalSPGI, Акции,Доступен,20.08 , 25.44
+246,US5717481023,MMC,Marsh & McLennanMMC, Акции,Нет,20.08 , 25.44
+247,US88579Y1010,MMM,3M CompanyMMM, Акции,Доступен,20.08 , 25.44
+248,US02209S1033,MO,Altria GroupMO, Акции,Доступен,20.08 , 25.44
+249,US6200763075,MSI,Motorola SolutionsMSI, Акции,Нет,20.08 , 25.44
+250,US58933Y1055,MRK,MerckMRK, Акции,Нет,20.08 , 25.44
+251,US5949181045,MSFT,Microsoft CorporationMSFT, Акции,Доступен,20.08 , 25.44
+252,US74460D1090,PSA,Public StoragePSA, Акции,Нет,20.08 , 25.44
+255,US6516391066,NEM,Newmont Goldcorp CorporationNEM, Акции,Доступен,25.18 , 28.82
+256,US7607591002,RSG,Republic ServicesRSG, Акции,Нет,20.08 , 25.44
+257,US6668071029,NOC,Northrop GrummanNOC, Акции,Нет,20.08 , 25.44
+258,US6558441084,NSC,Norfolk SouthernNSC, Акции,Нет,20.08 , 25.44
+259,US6658591044,NTRS,Northern TrustNTRS, Акции,Нет,20.08 , 25.44
+260,US30040W1080,ES,Eversource EnergyES, Акции,Нет,20.08 , 25.44
+261,US6826801036,OKE,ONEOKOKE, Акции,Доступен,25.18 , 28.82
+262,US68389X1054,ORCL,OracleORCL, Акции,Доступен,20.08 , 25.44
+263,US3453708600,F,FordF, Акции,Доступен,20.08 , 25.44
+264,US6745991058,OXY,Occidental PetroleumOXY, Акции,Доступен,22.56 , 46.41
+265,US20825C1045,COP,ConocoPhillipsCOP, Акции,Доступен,20.08 , 25.44
+266,US7127041058,PBCT,People's United FinancialPBCT, Акции,Доступен,20.08 , 28.82
+267,US7244791007,PBI,Pitney BowesPBI, Акции,Доступен,49.59 , 61.29
+268,US6937181088,PCAR,PACCARPCAR, Акции,Нет,20.08 , 25.44
+269,US69331C1080,PCG,PG&EPCG, Акции,Доступен,20.08 , 25.44
+270,US7445731067,PEG,Public Service Enterprise GroupPEG, Акции,Нет,20.08 , 25.44
+271,CH0044328745,CB,ChubbCB, Акции,Нет,20.08 , 25.44
+272,US7170811035,PFE,PfizerPFE, Акции,Нет,20.08 , 25.44
+273,US7427181091,PG,Procter & GamblePG, Акции,Доступен,20.08 , 25.44
+274,US7433151039,PGR,ProgressivePGR, Акции,Нет,20.08 , 25.44
+275,US7010941042,PH,Parker-HannifinPH, Акции,Нет,20.08 , 25.44
+276,US7458671010,PHM,PulteGroupPHM, Акции,Нет,20.08 , 25.44
+277,US71646E1001,PTR,PetroChinaPTR, Акции,Доступен,22.56 , 25.44
+278,US6934751057,PNC,PNC Financial ServicesPNC, Акции,Нет,20.08 , 25.44
+279,US6935061076,PPG,PPG IndustriesPPG, Акции,Нет,20.08 , 25.44
+280,US69351T1060,PPL,PPLPPL, Акции,Доступен,20.08 , 25.44
+281,US0162551016,ALGN,Align TechnologyALGN, Акции,Нет,31.94 , 48.84
+282,US6936561009,PVH,PVHPVH, Акции,Доступен,36 , 61.29
+283,US28176E1082,EW,Edwards LifesciencesEW, Акции,Нет,100 , 100
+284,US7512121010,RL,Ralph LaurenRL, Акции,Доступен,20.08 , 25.44
+285,US1011211018,BXP,Boston PropertiesBXP, Акции,Доступен,20.08 , 25.44
+286,US6819191064,OMC,Omnicom GroupOMC, Акции,Доступен,20.08 , 25.44
+287,US7782961038,ROST,Ross StoresROST, Акции,Доступен,20.08 , 25.44
+288,US2567461080,DLTR,Dollar TreeDLTR, Акции,Нет,20.08 , 25.44
+289,US8716071076,SNPS,SynopsysSNPS, Акции,Доступен,20.08 , 25.44
+290,US00206R1023,T,AT&TT, Акции,Доступен,20.08 , 25.44
+291,US8085131055,SCHW,The Charles Schwab CorporationSCHW, Акции,Доступен,20.08 , 25.44
+292,US8243481061,SHW,Sherwin-WilliamsSHW, Акции,Нет,20.08 , 25.44
+293,AN8068571086,SLB,SchlumbergerSLB, Акции,Доступен,20.08 , 25.44
+294,US8425871071,SO,SouthernSO, Акции,Доступен,20.08 , 25.44
+295,US12541W2098,CHRW,C.H. Robinson WorldwideCHRW, Акции,Нет,20.08 , 25.44
+296,US8545021011,SWK,Stanley Black & DeckerSWK, Акции,Нет,20.08 , 25.44
+297,US8454671095,SWN,Southwestern EnergySWN, Акции,Доступен,37.59 , 51.29
+298,US8718291078,SYY,SyscoSYY, Акции,Доступен,20.08 , 25.44
+300,US8725401090,TJX,TJXTJX, Акции,Доступен,20.08 , 25.44
+301,US8835561023,TMO,Thermo Fisher ScientificTMO, Акции,Нет,20.08 , 25.44
+302,US0200021014,ALL,The Allstate CorporationALL, Акции,Нет,20.08 , 25.44
+303,US74144T1088,TROW,T Rowe Price GroupTROW, Акции,Доступен,20.08 , 25.44
+304,US0231351067,AMZN,Amazon.comAMZN, Акции,Доступен,22.56 , 25.44
+305,US8825081040,TXN,Texas InstrumentsTXN, Акции,Доступен,20.08 , 25.44
+306,IE00BY7QL619,JCI,Johnson ControlsJCI, Акции,Нет,20.08 , 25.44
+307,US91529Y1064,UNM,UnumUNM, Акции,Нет,22.56 , 25.44
+308,US9078181081,UNP,Union Pacific CorporationUNP, Акции,Нет,20.08 , 25.44
+309,US75513E1010,RTX,Raytheon TechnologiesRTX, Акции,Доступен,27.75 , 32.25
+310,US9182041080,VFC,VFVFC, Акции,Нет,20.08 , 25.44
+311,US9291601097,VMC,Vulcan MaterialsVMC, Акции,Нет,20.08 , 25.44
+312,US1252691001,CF,CF Industries HoldingsCF, Акции,Нет,26.04 , 29.96
+313,US9314271084,WBA,Walgreens Boots AllianceWBA, Акции,Доступен,20.08 , 25.44
+314,US9581021055,WDC,Western DigitalWDC, Акции,Доступен,43.75 , 35.72
+315,US92939U1060,WEC,WEC Energy GroupWEC, Акции,Нет,20.08 , 25.44
+316,US1104481072,BTI,British American TobaccoBTI, Акции,Доступен,20.08 , 25.44
+317,US9497461015,WFC,Wells Fargo & CompanyWFC, Акции,Доступен,20.08 , 25.44
+318,US9694571004,WMB,The Williams CompaniesWMB, Акции,Доступен,37.59 , 46.41
+319,US94106L1098,WM,Waste ManagementWM, Акции,Доступен,20.08 , 25.44
+320,US9311421039,WMT,Wal-Mart StoresWMT, Акции,Доступен,20.08 , 25.44
+321,US3448491049,FL,Foot LockerFL, Акции,Нет,20.79 , 25.44
+322,US9043111072,UAA,Under ArmourUAA, Акции,Доступен,20.08 , 25.44
+323,US9113631090,URI,United RentalsURI, Акции,Нет,27.75 , 32.25
+324,US7237871071,PXD,Pioneer Natural ResourcesPXD, Акции,Нет,22.56 , 26.56
+325,US8760301072,TPR,TapestryTPR, Акции,Нет,20.08 , 25.44
+326,BMG491BT1088,IVZ,InvescoIVZ, Акции,Доступен,20.08 , 25.44
+327,US26875P1012,EOG,EOG ResourcesEOG, Акции,Доступен,24.31 , 33.4
+328,US5926881054,MTD,Mettler ToledoMTD, Акции,Нет,20.08 , 25.44
+329,US04621X1081,AIZ,AssurantAIZ, Акции,Нет,20.08 , 25.44
+330,US9839191015,XLNX,XilinxXLNX, Акции,Доступен,20.08 , 25.44
+331,US4581401001,INTC,Intel CorporationINTC, Акции,Доступен,20.08 , 25.44
+332,IE00BJ3V9050,ENDP,Endo International PLCENDP, Акции,Доступен,51 , 90.44
+333,US1011371077,BSX,Boston Scientific CorporationBSX, Акции,Доступен,20.08 , 25.44
+334,US09062X1037,BIIB,BiogenBIIB, Акции,Доступен,25.18 , 28.82
+335,US5398301094,LMT,Lockheed MartinLMT, Акции,Доступен,20.08 , 25.44
+336,US45866F1049,ICE,Intercontinental ExchangeICE, Акции,Нет,20.08 , 25.44
+337,US92532F1003,VRTX,Vertex PharmaceuticalsVRTX, Акции,Доступен,27.75 , 32.25
+338,US09247X1019,BLK,BlackRockBLK, Акции,Нет,20.08 , 25.44
+339,US00846U1016,A,Agilent TechnologiesA, Акции,Нет,20.08 , 25.44
+340,US8168511090,SRE,Sempra EnergySRE, Акции,Нет,20.08 , 25.44
+341,US1270971039,COG,Cabot Oil & GasCOG, Акции,Нет,23.44 , 38.06
+342,US17275R1023,CSCO,CiscoCSCO, Акции,Доступен,20.08 , 25.44
+343,US2786421030,EBAY,eBayEBAY, Акции,Доступен,22.56 , 25.44
+344,US55616P1049,M,Macy'sM, Акции,Доступен,29.44 , 51.29
+345,CH0114405324,GRMN,GarminGRMN, Акции,Доступен,20.08 , 25.44
+346,BMG812761002,SIG,Signet JewelersSIG, Акции,Доступен,31.94 , 38.06
+347,US6541061031,NKE,NIKENKE, Акции,Доступен,20.08 , 25.44
+348,US5951121038,MU,Micron TechnologyMU, Акции,Доступен,31.11 , 35.72
+349,US38141G1040,GS,Goldman SachsGS, Акции,Доступен,20.08 , 25.44
+350,US75886F1075,REGN,Regeneron PharmaceuticalsREGN, Акции,Доступен,22.56 , 25.44
+351,US2003401070,CMA,Comerica IncorporatedCMA, Акции,Нет,20.08 , 25.44
+352,US0533321024,AZO,AutoZoneAZO, Акции,Нет,20.08 , 25.44
+353,US5658491064,MRO,Marathon OilMRO, Акции,Нет,40.71 , 58.76
+354,US7475251036,QCOM,QualcommQCOM, Акции,Доступен,20.08 , 25.44
+355,US91324P1021,UNH,UnitedHealthUNH, Акции,Доступен,20.08 , 25.44
+356,US25470F1049,DISCA,Discovery Communications (A)DISCA, Акции,Доступен,20.08 , 27.69
+357,US89151E1091,TTE,TotalEnergies SETTE, Акции,Доступен,22.56 , 25.44
+358,US3755581036,GILD,GILEADGILD, Акции,Доступен,20.08 , 25.44
+359,US64110L1061,NFLX,NetflixNFLX, Акции,Доступен,26.9 , 31.1
+360,US49446R1095,KIM,Kimco RealtyKIM, Акции,Нет,20.08 , 25.44
+361,US0758961009,BBBY,Bed Bath & BeyondBBBY, Акции,Нет,51 , 90.44
+362,US6074091090,MBT,АДР МТСMBT, Акции,Доступен,25.18 , 28.82
+363,US8552441094,SBUX,Starbucks CorporationSBUX, Акции,Доступен,20.08 , 25.44
+364,US00507V1098,ATVI,Activision BlizzardATVI, Акции,Доступен,20.08 , 25.44
+365,US37940X1028,GPN,Global PaymentsGPN, Акции,Доступен,20.08 , 25.44
+366,US3156161024,FFIV,F5 NetworksFFIV, Акции,Нет,25.18 , 25.44
+367,US6092071058,MDLZ,MondelezMDLZ, Акции,Доступен,20.08 , 25.44
+368,US2810201077,EIX,Edison InternationalEIX, Акции,Доступен,20.08 , 25.44
+369,US14149Y1082,CAH,Cardinal HealthCAH, Акции,Доступен,20.08 , 25.44
+370,US6293775085,NRG,NRG EnergyNRG, Акции,Доступен,27.75 , 32.25
+371,IE00B4BNMY34,ACN,AccentureACN, Акции,Доступен,20.08 , 25.44
+372,US50540R4092,LH,LabCorpLH, Акции,Нет,20.08 , 25.44
+373,IE00BDB6Q211,WLTW,Willis Towers WatsonWLTW, Акции,Нет,20.08 , 25.44
+375,US7134481081,PEP,PepsiCoPEP, Акции,Доступен,20.08 , 25.44
+376,US7561091049,O,Realty IncomeO, Акции,Доступен,20.08 , 25.44
+377,US9024941034,TSN,Tyson FoodsTSN, Акции,Доступен,20.08 , 25.44
+378,US46625H1005,JPM,JPMorganJPM, Акции,Доступен,20.08 , 25.44
+379,US8636671013,SYK,StrykerSYK, Акции,Нет,20.08 , 25.44
+380,US1101221083,BMY,Bristol-Myers SquibbBMY, Акции,Доступен,20.08 , 25.44
+381,US23331A1097,DHI,D.R. HortonDHI, Акции,Доступен,20.08 , 25.44
+382,US45104G1040,IBN,ICICI BankIBN, Акции,Доступен,22.56 , 31.1
+383,US4523271090,ILMN,IlluminaILMN, Акции,Доступен,26.9 , 31.1
+384,US0846707026,BRK B,Berkshire HathawayBRK.B, Акции,Доступен,20.08 , 25.44
+385,US58155Q1031,MCK,McKessonMCK, Акции,Нет,100 , 100
+387,US7766961061,ROP,Roper TechnologiesROP, Акции,Нет,20.08 , 25.44
+388,US57636Q1040,MA,MastercardMA, Акции,Доступен,20.08 , 25.44
+389,US2220702037,COTY,CotyCOTY, Акции,Доступен,30.28 , 51.29
+390,US6311031081,NDAQ,NasdaqNDAQ, Акции,Доступен,20.08 , 25.44
+391,US22160K1051,COST,Costco WholesaleCOST, Акции,Нет,20.08 , 25.44
+392,US00751Y1064,AAP,Advance Auto PartsAAP, Акции,Нет,20.08 , 25.44
+393,US6153691059,MCO,Moody'sMCO, Акции,Нет,20.08 , 25.44
+394,US15189T1079,CNP,CenterPoint EnergyCNP, Акции,Доступен,20.08 , 25.44
+395,US9029733048,USB,US BancorpUSB, Акции,Доступен,20.08 , 25.44
+397,US50186V1026,LPL,LG DisplayLPL, Акции,Доступен,27.75 , 32.25
+398,US5184391044,EL,The Estee Lauder CompaniesEL, Акции,Нет,20.08 , 25.44
+399,US6081901042,MHK,Mohawk IndustriesMHK, Акции,Нет,20.08 , 25.44
+400,US64110D1046,NTAP,NetAppNTAP, Акции,Доступен,20.08 , 25.44
+401,US1773761002,CTXS,Citrix SystemsCTXS, Акции,Доступен,22.56 , 25.44
+402,US92276F1003,VTR,VentasVTR, Акции,Доступен,20.08 , 25.44
+403,US22822V1017,CCI,Crown CastleCCI, Акции,Нет,20.08 , 25.44
+404,US75281A1097,RRC,Range ResourcesRRC, Акции,Доступен,40.71 , 76.89
+405,US1729674242,C,CitigroupC, Акции,Доступен,20.08 , 25.44
+406,US4165151048,HIG,Hartford Financial ServicesHIG, Акции,Доступен,20.08 , 25.44
+408,US03076C1062,AMP,Ameriprise FinancialAMP, Акции,Нет,20.08 , 25.44
+409,US5797802064,MKC,McCormick & CoMKC, Акции,Нет,20.08 , 25.44
+410,US6556641008,JWN,NordstromJWN, Акции,Доступен,28.6 , 36.89
+411,US30231G1022,XOM,Exxon Mobil CorporationXOM, Акции,Доступен,20.08 , 25.44
+412,US1729081059,CTAS,CintasCTAS, Акции,Нет,20.08 , 25.44
+413,US4385161066,HON,HoneywellHON, Акции,Доступен,22.56 , 25.44
+414,US90184L1026,TWTR,TwitterTWTR, Акции,Доступен,40.71 , 51.29
+415,US87612E1064,TGT,TargetTGT, Акции,Доступен,20.08 , 25.44
+416,US7443201022,PRU,Prudential FinancialPRU, Акции,Доступен,20.08 , 25.44
+417,US92343V1044,VZ,Verizon CommunicationsVZ, Акции,Доступен,20.08 , 25.44
+418,US21036P1084,STZ,Constellation BrandsSTZ, Акции,Нет,20.08 , 25.44
+419,US7181721090,PM,Philip MorrisPM, Акции,Доступен,20.08 , 25.44
+420,US30161N1019,EXC,Exelon CorporationEXC, Акции,Доступен,20.08 , 25.44
+421,US0530151036,ADP,Automatic Data ProcessingADP, Акции,Нет,20.08 , 25.44
+422,US1667641005,CVX,ChevronCVX, Акции,Доступен,20.08 , 25.44
+423,US46284V1017,IRM,Iron MountainIRM, Акции,Доступен,20.08 , 25.44
+424,US40434L1052,HPQ,HPHPQ, Акции,Доступен,20.08 , 25.44
+425,US83088M1027,SWKS,Skyworks SolutionsSWKS, Акции,Нет,25.18 , 39.24
+426,US8936411003,TDG,TransDigmTDG, Акции,Нет,22.56 , 25.44
+427,US9113121068,UPS,United Parcel ServiceUPS, Акции,Доступен,20.08 , 25.44
+428,US9831341071,WYNN,Wynn ResortsWYNN, Акции,Доступен,27.75 , 32.25
+429,US9100471096,UAL,United Airlines HoldingsUAL, Акции,Доступен,23.44 , 27.69
+430,US29444U7000,EQIX,EquinixEQIX, Акции,Нет,20.08 , 25.44
+431,US29414B1044,EPAM,EPAM SystemsEPAM, Акции,Доступен,20.08 , 25.44
+432,US30303M1027,FB,FacebookFB, Акции,Доступен,20.08 , 25.44
+433,US23918K1088,DVA,DaVita HealthCare PartnersDVA, Акции,Нет,20.08 , 25.44
+434,US88160R1014,TSLA,Tesla MotorsTSLA, Акции,Доступен,45.24 , 61.29
+435,US37045V1008,GM,General MotorsGM, Акции,Доступен,20.08 , 25.44
+436,US2566771059,DG,Dollar GeneralDG, Акции,Нет,20.08 , 25.44
+438,US92826C8394,V,VisaV, Акции,Доступен,20.08 , 25.44
+439,US30225T1025,EXR,Extra Space StorageEXR, Акции,Нет,20.08 , 25.44
+440,US8765685024,TTM,Tata MotorsTTM, Акции,Доступен,40.71 , 51.29
+441,US7591EP1005,RF,Regions FinancialRF, Акции,Доступен,20.08 , 25.44
+442,US2538681030,DLR,Digital RealtyDLR, Акции,Нет,20.08 , 25.44
+443,US2547091080,DFS,Discover Financial ServicesDFS, Акции,Доступен,20.08 , 25.44
+444,US91822M1062,VEON,VEONVEON, Акции,Доступен,29.44 , 34.56
+445,US44332N1063,HTHT,Huazhu GroupHTHT, Акции,Нет,23.44 , 28.82
+446,US40412C1018,HCA,HCA HealthcareHCA, Акции,Доступен,20.08 , 25.44
+447,US1696561059,CMG,Chipotle Mexican GrillCMG, Акции,Нет,20.08 , 25.44
+448,US0567521085,BIDU,BaiduBIDU, Акции,Доступен,50.02 , 46.41
+449,US30212P3038,EXPE,ExpediaEXPE, Акции,Доступен,23.44 , 26.56
+450,US88076W1036,TDC,TeradataTDC, Акции,Нет,30.28 , 96
+452,US2473617023,DAL,Delta Air LinesDAL, Акции,Доступен,20.08 , 25.44
+453,CH0102993182,TEL,TE ConnectivityTEL, Акции,Нет,20.08 , 25.44
+454,US03524A1088,BUD,Anheuser-Busch InBevBUD, Акции,Доступен,20.08 , 25.44
+455,US16119P1084,CHTR,Charter CommunicationsCHTR, Акции,Нет,20.08 , 25.44
+456,NL0009434992,LYB,LyondellBasellLYB, Акции,Доступен,20.08 , 25.44
+457,US6974351057,PANW,Palo Alto NetworksPANW, Акции,Нет,26.9 , 31.1
+458,US8522341036,SQ,SquareSQ, Акции,Доступен,32.76 , 46.41
+459,US49456B1017,KMI,Kinder MorganKMI, Акции,Доступен,22.56 , 25.44
+460,US8486371045,SPLK,SplunkSPLK, Акции,Нет,28.6 , 33.4
+461,US56585A1025,MPC,Marathon PetroleumMPC, Акции,Доступен,23.44 , 26.56
+462,US8969452015,TRIP,TripAdvisorTRIP, Акции,Доступен,30.28 , 53.76
+463,US00287Y1091,ABBV,AbbVieABBV, Акции,Доступен,20.08 , 25.44
+464,US7185461040,PSX,Phillips 66PSX, Акции,Доступен,20.08 , 25.44
+465,VGG1890L1076,CPRI,Capri Holdings LimitedCPRI, Акции,Доступен,24.31 , 27.69
+467,US92763W1036,VIPS,VipshopVIPS, Акции,Доступен,50.02 , 42.8
+468,US98978V1035,ZTS,ZoetisZTS, Акции,Нет,20.08 , 25.44
+469,US46591M1099,YY,JOYY IncYY, Акции,Доступен,50.02 , 42.8
+470,US43300A2033,HLT,HiltonHLT, Акции,Доступен,20.08 , 25.44
+471,US5007541064,KHC,Kraft HeinzKHC, Акции,Доступен,26.9 , 31.1
+472,US02376R1023,AAL,American Airlines GroupAAL, Акции,Нет,20.08 , 29.96
+473,US47215P1066,JD,JD.comJD, Акции,Доступен,50.02 , 32.25
+474,US87165B1035,SYF,Synchrony FinancialSYF, Акции,Нет,20.08 , 25.44
+475,US9485961018,WB,Weibo CorporationWB, Акции,Доступен,36 , 44
+476,US01609W1027,BABA,AlibabaBABA, Акции,Доступен,50.02 , 25.44
+477,US1746101054,CFG,Citizens Financial GroupCFG, Акции,Доступен,20.08 , 25.44
+478,US70450Y1038,PYPL,PayPal HoldingsPYPL, Акции,Доступен,27.75 , 32.25
+479,US42824C1099,HPE,Hewlett Packard EnterpriseHPE, Акции,Доступен,42.24 , 53.76
+480,US4234031049,MOMO,Hello GroupMOMO, Акции,Доступен,50.02 , 50.06
+481,US74736K1016,QRVO,QorvoQRVO, Акции,Доступен,26.9 , 31.1
+482,GB00BWFY5505,NLSN,Nielsen Holdings plcNLSN, Акции,Нет,20.08 , 25.44
+483,US61174X1090,MNST,Monster BeverageMNST, Акции,Доступен,20.08 , 25.44
+484,US96145D1054,WRK,WestRockWRK, Акции,Доступен,20.08 , 25.44
+485,NL0011585146,RACE,Ferrari N.V.RACE, Акции,Доступен,40.71 , 51.29
+486,US02079K3059,GOOGL,Alphabet Class AGOOGL, Акции,Доступен,20.08 , 25.44
+487,US02079K1079,GOOG,Alphabet Class CGOOG, Акции,Доступен,20.08 , 25.44
+488,US0138721065,AA,Alcoa CorporationAA, Акции,Доступен,29.44 , 34.56
+489,US34959J1088,FTV,FortiveFTV, Акции,Нет,20.08 , 25.44
+490,US26614N1028,DD,DuPont de Nemours IncDD, Акции,Нет,20.08 , 25.44
+491,GB00BDSFG982,FTI,TechnipFMCFTI, Акции,Нет,22.56 , 39.24
+492,US23355L1061,DXC,DXC TechnologyDXC, Акции,Доступен,46.71 , 69
+493,US90384S3031,ULTA,Ulta BeautyULTA, Акции,Нет,20.08 , 25.44
+494,US05722G1004,BKR,Baker HughesBKR, Акции,Доступен,22.56 , 25.44
+496,IE00BZ12WP82,LIN,LindeLIN, Акции,Нет,20.08 , 25.44
+497,US5948374039,MFGP,Micro FocusMFGP, Акции,Доступен,49.59 , 66.41
+498,US2946001011,ETRN,Equitrans Midstream CorporationETRN, Акции,Доступен,61.56 , 90.44
+499,US11135F1012,AVGO,BroadcomAVGO, Акции,Доступен,20.08 , 25.44
+500,US1255231003,CI,CignaCI, Акции,Нет,20.08 , 25.44
+501,US83410S1087,SOHU,Sohu.comSOHU, Акции,Нет,40.71 , 69
+502,US1273871087,CDNS,Cadence Design SystemsCDNS, Акции,Нет,20.08 , 25.44
+503,US2120151012,CLR,Continental Resources IncCLR, Акции,Доступен,26.04 , 40.42
+504,US2383371091,PLAY,Dave & Buster's Entertainment IncPLAY, Акции,Доступен,29.44 , 38.06
+505,US3390411052,FLT,FleetCor Technologies IncFLT, Акции,Нет,20.08 , 25.44
+506,US8485771021,SAVE,Spirit Airlines IncSAVE, Акции,Доступен,53.76 , 74.24
+507,US9297401088,WAB,Wabtec Corp.WAB, Акции,Нет,20.08 , 25.44
+508,US57060D1081,MKTX,MarketAxess Holdings IncMKTX, Акции,Нет,20.08 , 25.44
+509,US4571871023,INGR,Ingredion IncINGR, Акции,Доступен,20.08 , 25.44
+510,US9892071054,ZBRA,Zebra Technologies CorpZBRA, Акции,Нет,27.75 , 32.25
+511,US4485791028,H,Hyatt Hotels CorpH, Акции,Доступен,20.08 , 25.44
+512,US48123V1026,JCOM,j2 Global IncJCOM, Акции,Доступен,20.08 , 25.44
+513,US58733R1023,MELI,MercadoLibre IncMELI, Акции,Нет,27.75 , 36.89
+514,US1689051076,PLCE,Children's Place Inc ThePLCE, Акции,Нет,22.56 , 40.42
+515,US5178341070,LVS,Las Vegas Sands CorpLVS, Акции,Доступен,20.08 , 25.44
+516,US29786A1060,ETSY,Etsy IncETSY, Акции,Доступен,37.59 , 46.41
+517,US8485741099,SPR,Spirit AeroSystems HoldingsSPR, Акции,Доступен,51 , 71.61
+518,US55354G1004,MSCI,MSCI IncMSCI, Акции,Нет,20.08 , 25.44
+519,US45780L1044,INGN,Inogen IncINGN, Акции,Нет,37.59 , 48.84
+520,US25278X1090,FANG,Diamondback Energy IncFANG, Акции,Нет,100 , 100
+521,US8190471016,SHAK,Shake Shack IncSHAK, Акции,Нет,39.16 , 46.41
+522,US70432V1026,PAYC,Paycom Software IncPAYC, Акции,Нет,31.11 , 36.89
+523,LU1778762911,SPOT,Spotify Technology SASPOT, Акции,Доступен,32.76 , 39.24
+524,US0900401060,BILI,Bilibili IncBILI, Акции,Доступен,69.75 , 110.25
+525,US57667L1070,MTCH,Match Group IncMTCH, Акции,Доступен,27.75 , 32.25
+526,US8740541094,TTWO,Take-Two Interactive SoftwareTTWO, Акции,Доступен,27.75 , 32.25
+527,US8725901040,TMUS,T-Mobile US IncTMUS, Акции,Доступен,24.31 , 27.69
+528,US17243V1026,CNK,Cinemark Holdings IncCNK, Акции,Доступен,22.56 , 28.82
+529,US83304A1060,SNAP,Snap IncSNAP, Акции,Доступен,35.2 , 42.8
+530,US8356993076,SONY,Sony CorpSONY, Акции,Нет,32.76 , 39.24
+531,US8923313071,TM,Toyota Motor CorpTM, Акции,Нет,27.75 , 32.25
+532,KY30744W1070,FTCH,Farfetch LtdFTCH, Акции,Нет,42.24 , 53.76
+533,US33829M1018,FIVE,Five Below IncFIVE US, Акции,Нет,100 , 100
+534,US4627261005,IRBT,iRobot CorpIRBT, Акции,Доступен,37.59 , 46.41
+535,US5500211090,LULU,Lululemon Athletica IncLULU, Акции,Нет,30.28 , 35.72
+536,US77543R1023,ROKU,Roku IncROKU, Акции,Доступен,89.76 , 227.61
+537,US1220171060,BURL,Burlington Stores IncBURL, Акции,Нет,20.08 , 28.82
+539,US52736R1023,LEVI,Levi Strauss & CoLEVI, Акции,Доступен,61.56 , 90.44
+540,US9120081099,USFD,US Foods Holding CorpUSFD, Акции,Доступен,20.08 , 25.44
+541,US3682872078,OGZD@GS,Gazprom PJSCOGZD@GS, Акции,Нет,20.08 , 22.32
+542,US80585Y3080,SBER@GS,Sberbank of Russia PJSCSBER@GS, Акции,Нет,20.79 , 23.21
+543,US0036541003,ABMD,Abiomed IncABMD, Акции,Доступен,27.75 , 32.25
+544,US2521311074,DXCM,DexCom IncDXCM, Акции,Доступен,27.75 , 32.25
+545,US31572Q8087,FGEN,FIBROGEN INCFGEN, Акции,Нет,60.31 , 86.32
+546,US4500561067,IRTC,iRhythm TechnologiesIRTC, Акции,Нет,52.39 , 35.72
+547,US46185L1035,NVTA,Invitae CorpNVTA, Акции,Нет,57.1 , 80.9
+548,US9224751084,VEEV,Veeva Systems IncVEEV, Акции,Нет,100 , 100
+549,US78667J1088,SAGE,Sage Therapeutics IncSAGE, Акции,Доступен,37.59 , 46.41
+550,US0197701065,ALLO,Allogene Therapeutics IncALLO, Акции,Нет,57.75 , 82.25
+551,US4464131063,HII,Huntington Ingalls Industries IncHII, Акции,Доступен,20.08 , 25.44
+552,US8740391003,TSM,Taiwan Semiconductor ManufacturingTSM, Акции,Доступен,20.08 , 25.44
+553,US88339J1051,TTD,Trade Desk Inc/TheTTD, Акции,Доступен,40.71 , 51.29
+554,US2561631068,DOCU,DocuSign IncDOCU, Акции,Доступен,46.71 , 61.29
+555,US34959E1091,FTNT,Fortinet IncFTNT, Акции,Доступен,20.08 , 25.44
+556,US55024U1097,LITE,Lumentum Holdings IncLITE, Акции,Нет,35.2 , 42.8
+557,US67059N1081,NTNX,Nutanix IncNTNX, Акции,Доступен,37.59 , 46.41
+558,US3802371076,GDDY,GoDaddy IncGDDY, Акции,Нет,24.31 , 48.84
+559,US90138F1021,TWLO,Twilio IncTWLO, Акции,Доступен,40.71 , 51.29
+560,CA0679011084,GOLD,Barrick GoldGOLD, Акции,Нет,27.75 , 32.25
+561,US06684L1035,BZUN,Baozun IncBZUN, Акции,Нет,46.71 , 61.29
+562,US55087P1049,LYFT,Lyft IncLYFT, Акции,Доступен,61.56 , 90.44
+563,US98980L1017,ZM,Zoom Video Communications IncZM, Акции,Доступен,57.75 , 82.25
+564,US72352L1061,PINS,Pinterest IncPINS, Акции,Доступен,69.75 , 110.25
+565,US90353T1007,UBER,UberUBER, Акции,Доступен,80.64 , 162.44
+566,US08862E1091,BYND,Beyond Meat IncBYND, Акции,Доступен,51 , 69
+567,IL0010824113,CHKP,Check Point Software Technologies LtdCHKP, Акции,Нет,25.18 , 28.82
+568,US42207L1061,HHR,HeadHunter Group PLCHHR, Акции,Нет,69.75 , 110.25
+569,US98986X1090,ZYNE,Zynerba Pharmaceuticals IncZYNE, Акции,Доступен,59.04 , 101.64
+570,US09061G1013,BMRN,BioMarin Pharmaceutical IncBMRN, Акции,Нет,22.56 , 25.44
+571,US2270461096,CROX,Crocs IncCROX, Акции,Нет,44.5 , 57.5
+572,US31188V1008,FSLY,Fastly IncFSLY, Акции,Доступен,75 , 131.04
+573,US8036071004,SRPT,Sarepta Therapeutics IncSRPT, Акции,Доступен,35.2 , 42.8
+574,US05464T1043,AXSM,Axsome Therapeutics IncAXSM, Акции,Нет,55.78 , 78.22
+575,US83417M1045,SEDG,SolarEdge Technologies IncSEDG, Акции,Доступен,42.24 , 56.25
+576,US8807701029,TER,Teradyne IncTER, Акции,Доступен,61.56 , 90.44
+577,US94419L1017,W,Wayfair IncW, Акции,Доступен,35.2 , 42.8
+578,US98138H1014,WDAY,Workday IncWDAY, Акции,Нет,42.24 , 53.76
+579,US98936J1016,ZEN,Zendesk IncZEN, Акции,Нет,27.75 , 32.25
+580,US2605571031,DOW,Dow IncDOW, Акции,Доступен,61.56 , 90.44
+581,US03852U1060,ARMK,AramarkARMK, Акции,Нет,20.08 , 25.44
+582,US29089Q1058,EBS,Emergent BioSolutions IncEBS, Акции,Нет,34.39 , 26.56
+583,US02156B1035,AYX,Alteryx IncAYX, Акции,Доступен,46.71 , 42.8
+584,US6821891057,ON,ON Semiconductor CorpON, Акции,Нет,27.75 , 32.25
+585,US69318G1067,PBF,PBF Energy IncPBF, Акции,Доступен,30.28 , 51.29
+586,US71377A1034,PFGC,Performance Food Group CoPFGC, Акции,Доступен,20.08 , 25.44
+587,US25746U1097,D,Dominion Energy IncD, Акции,Доступен,20.08 , 25.44
+588,US0404131064,ANET,Arista Networks IncANET, Акции,Доступен,29.44 , 34.56
+589,US53814L1089,LTHM,Livent CorporationLTHM, Акции,Доступен,61.56 , 90.44
+590,US09180C1062,BJRI,BJ's Restaurants IncBJRI, Акции,Доступен,24.31 , 27.69
+591,US4198791018,HA,Hawaiian Holdings IncHA, Акции,Доступен,27.75 , 35.72
+592,US46266C1053,IQV,IQVIA Holdings IncIQV, Акции,Нет,20.08 , 25.44
+593,US45845P1084,ICPT,Intercept Pharmaceuticals IncICPT, Акции,Нет,45.98 , 60.02
+594,US22788C1053,CRWD,Crowdstrike Holdings IncCRWD, Акции,Доступен,72.96 , 122.01
+595,US30161Q1040,EXEL,Exelixis IncEXEL, Акции,Нет,36.8 , 45.2
+596,US0327241065,ANAB,AnaptysBio IncANAB, Акции,Доступен,47.44 , 62.56
+597,US00773T1016,ASIX,AdvanSix IncASIX, Акции,Нет,43.75 , 51.29
+599,US98980G1022,ZS,Zscaler IncZS, Акции,Доступен,72.96 , 122.01
+600,US8740801043,TAL,TAL Education GroupTAL, Акции,Нет,100 , 612.89
+601,US64110W1027,NTES,NetEase IncNTES, Акции,Доступен,27.75 , 32.25
+602,US80105N1054,SNY,SanofiSNY, Акции,Доступен,20.08 , 25.44
+603,US75689M1018,RRGB,Red Robin Gourmet Burgers IncRRGB, Акции,Доступен,24.31 , 41.61
+604,US90214J1016,TWOU,2U IncTWOU, Акции,Доступен,34.39 , 46.41
+605,US92336X1090,VNE,Veoneer IncVNE, Акции,Нет,45.24 , 58.76
+606,US22266L1061,COUP,Coupa Software IncCOUP, Акции,Нет,32.76 , 39.24
+607,US43283X1054,HGV,Hilton Grand Vacations IncHGV, Акции,Нет,22.56 , 25.44
+608,US81762P1021,NOW,ServiceNow IncNOW, Акции,Нет,23.44 , 26.56
+609,US7437131094,PRLB,Proto Labs IncPRLB, Акции,Нет,28.6 , 40.42
+610,US5949724083,MSTR,MicroStrategy IncMSTR, Акции,Доступен,37.59 , 96
+611,US2540671011,DDS,Dillard's IncDDS, Акции,Нет,29.44 , 69
+612,US91912E1055,VALE,Vale SAVALE, Акции,Доступен,35.2 , 42.8
+613,US22052L1044,CTVA,Corteva IncCTVA, Акции,Нет,42.24 , 53.76
+614,US74838J1016,QDEL,Quidel CorpQDEL, Акции,Нет,39.16 , 48.84
+615,US92214X1063,VREX,Varex Imaging CorpVREX, Акции,Доступен,24.31 , 27.69
+616,US76243J1051,RYTM,Rhythm Pharmaceuticals IncRYTM, Акции,Нет,62.79 , 93.21
+617,US35137L2043,FOX,Twenty-First Century FoxFOX, Акции,Нет,100 , 100
+618,US35137L1052,FOXA,Twenty-First Century Fox (A)FOXA, Акции,Нет,100 , 100
+619,US60937P1066,MDB,MongoDB IncMDB, Акции,Доступен,37.59 , 46.41
+620,US05508R1068,BGS,B&G Foods IncBGS, Акции,Нет,32.76 , 39.24
+621,US45826J1051,NTLA,Intellia Therapeutics IncNTLA, Акции,Нет,42.24 , 56.25
+622,US6792951054,OKTA,Okta IncOKTA, Акции,Нет,30.28 , 35.72
+623,US6811161099,OLLI,Ollie's Bargain Outlet HoldingOLLI, Акции,Нет,39.16 , 36.89
+624,US37890U1088,GBT,Global Blood Therapeutics IncGBT, Акции,Нет,46.71 , 61.29
+625,US38341P1021,GOSS,Gossamer Bio IncGOSS, Акции,Доступен,53.76 , 74.24
+626,US9004502061,HEAR,Turtle Beach CorpHEAR, Акции,Доступен,62.79 , 93.21
+627,US83200N1037,SMAR,Smartsheet IncSMAR, Акции,Доступен,53.76 , 74.24
+628,US87808K1060,TCRR,TCR2 Therapeutics IncTCRR, Акции,Нет,71.91 , 116.09
+629,US0042251084,ACAD,ACADIA Pharmaceuticals IncACAD, Акции,Доступен,40.71 , 51.29
+630,US04280A1007,ARWR,Arrowhead Pharmaceuticals IncARWR, Акции,Доступен,59.04 , 84.96
+631,US02156K1034,ATUS,Altice USA IncATUS, Акции,Нет,27.75 , 32.25
+632,US09609G1004,BLUE,Bluebird Bio IncBLUE, Акции,Нет,44.5 , 57.5
+633,US22160N1090,CSGP,CoStar Group IncCSGP, Акции,Нет,20.08 , 25.44
+634,US30050B1017,EVH,Evolent Health IncEVH, Акции,Доступен,57.75 , 69
+635,US98954M2008,Z,Zillow Group IncZ, Акции,Доступен,25.18 , 35.72
+636,US18915M1071,NET,CloudFlare IncNET, Акции,Доступен,66.36 , 101.64
+637,US70614W1009,PTON,Peloton Interactive IncPTON, Акции,Доступен,65.19 , 98.81
+638,US23804L1035,DDOG,Datadog IncDDOG, Акции,Доступен,61.56 , 90.44
+639,US98421M1062,XRX,XeroxXRX, Акции,Доступен,20.08 , 25.44
+640,US3563901046,FRHC,Freedom Holding Corp/NVFRHC, Акции,Нет,51 , 69
+641,US98978L2043,ZGNX,Zogenix IncZGNX, Акции,Доступен,37.59 , 46.41
+642,US00771V1089,AERI,Aerie Pharmaceuticals IncAERI, Акции,Доступен,32.76 , 39.24
+643,US0465131078,ATRA,Atara Biotherapeutics IncATRA, Акции,Доступен,42.24 , 53.76
+644,US1407551092,CARA,Cara Therapeutics IncCARA, Акции,Нет,45.24 , 58.76
+645,US4277461020,HRTX,Heron Therapeutics IncHRTX, Акции,Доступен,32.76 , 39.24
+646,US68554V1089,OSUR,OraSure Technologies IncOSUR, Акции,Нет,40.71 , 51.29
+647,US72147K1088,PPC,Pilgrim's Pride CorpPPC, Акции,Доступен,20.08 , 25.44
+648,US28106W1036,EDIT,Editas Medicine IncEDIT, Акции,Нет,42.24 , 82.25
+649,US29664W1053,ESPR,Esperion Therapeutics IncESPR, Акции,Нет,42.24 , 53.76
+650,US3610081057,FNKO,Funko IncFNKO, Акции,Нет,40.71 , 53.76
+651,US98986M1036,ZYXI,Zynex IncZYXI, Акции,Доступен,43.75 , 46.41
+652,US28238P1093,EHTH,eHealth IncEHTH, Акции,Доступен,35.2 , 42.8
+653,US60770K1079,MRNA,Moderna IncMRNA, Акции,Доступен,51 , 69
+654,US3621LQ1099,GTHX,G1 Therapeutics IncGTHX, Акции,Доступен,51 , 69
+655,US4622601007,IOVA,Iovance Biotherapeutics IncIOVA, Акции,Доступен,42.24 , 53.76
+656,US91688F1049,UPWK,Upwork IncUPWK, Акции,Доступен,55.11 , 76.89
+658,US1630861011,CHEF,Chefs' Warehouse IncCHEF, Акции,Доступен,26.04 , 40.42
+659,US6752321025,OII,Oceaneering International IncOII, Акции,Доступен,51 , 69
+660,US6780261052,OIS,Oil States International IncOIS, Акции,Нет,40.71 , 51.29
+661,US74347M1080,PUMP,ProPetro Holding CorpPUMP, Акции,Доступен,61.56 , 90.44
+662,US75972A3014,REGI,Renewable Energy Group IncREGI, Акции,Доступен,26.9 , 41.61
+663,US7802592060,RDS A,Royal Dutch Shell (A)RDS.A, Акции,Доступен,20.08 , 25.44
+664,US92766K1060,SPCE,Virgin Galactic Holdings Inc Class ASPCE, Акции,Доступен,50.02 , 90.44
+665,US92556H2067,VIAC,ViacomCBS Inc.VIAC, Акции,Доступен,26.9 , 28.82
+666,US69047Q1022,OVV,Ovintiv Inc.OVV, Акции,Доступен,51 , 69
+667,US80810D1037,SDGR,Schrodinger IncSDGR, Акции,Нет,81.51 , 165.69
+668,US29355A1079,ENPH,Enphase Energy IncENPH, Акции,Доступен,51 , 69
+669,NL0009538784,NXPI,NXP Semiconductors NVNXPI, Акции,Доступен,32.76 , 39.24
+670,US87918A1051,TDOC,Teladoc Health IncTDOC, Акции,Доступен,32.76 , 39.24
+671,US15872M1045,CHX,ChampionX CorporationCHX, Акции,Доступен,49.59 , 66.41
+672,US25400W1027,APPS,Digital Turbine IncAPPS, Акции,Нет,53.76 , 74.24
+673,US09203E1055,BDTX,Black Diamond Therapeutics IncBDTX, Акции,Нет,76.96 , 140.25
+674,US91332U1016,U,Unity Software IncU, Акции,Нет,42.24 , 53.76
+675,US69608A1088,PLTR,Palantir Technologies IncPLTR, Акции,Доступен,62.79 , 93.21
+676,US26142R1041,DKNG,DraftKings IncDKNG, Акции,Доступен,69.75 , 110.25
+677,US03969T1097,ARCT,Arcturus Therapeutics HoldingsARCT, Акции,Нет,57.75 , 93.21
+678,US09075P1057,BTAI,BioXcel TherapeuticsBTAI, Акции,Нет,59.04 , 84.96
+679,US92828Q1094,VRTS,Virtus Investment PartnersVRTS, Акции,Нет,100 , 100
+680,US92259F1012,VLDR,Velodyne LidarVLDR, Акции,Нет,46.71 , 74.24
+681,US92556V1061,VTRS,Viatris IncVTRS, Акции,Нет,32.76 , 39.24
+682,US16383L1061,CCXI,ChemoCentryx, Акции,Нет,56.44 , 79.56
+683,US92764N1028,VIR,Vir BiotechnologyVIR, Акции,Нет,61.56 , 90.44
+684,US03152W1099,FOLD,Amicus TherapeuticsFOLD, Акции,Нет,40.71 , 51.29
+685,IL0010852080,CGEN,CompugenCGEN, Акции,Нет,43 , 55
+686,US03748R7474,AIV,Apartment Investment & ManagementAIV, Акции,Нет,23.44 , 26.56
+687,US0090661010,ABNB,Airbnb, Акции,Нет,51 , 69
+688,US54405Q1004,RIDE,Lordstown Motors CorpRIDE, Акции,Нет,55.11 , 79.56
+689,US86333M1080,LRN,Stride, Акции,Нет,35.2 , 42.8
+690,US21077C1071,WISH,ContextLogicWISH, Акции,Нет,52.39 , 74.24
+691,US03743Q1085,APA,APA CorporationAPA, Акции,Доступен,46.71 , 61.29
+692,US83067L1098,SKLZ,Skillz IncSKLZ, Акции,Нет,62.79 , 98.81
+693,US74767V1098,QS,QuantumScape CorporationQS, Акции,Нет,82.36 , 172.25
+694,US19260Q1076,COIN,CoinbaseCOIN, Акции,Доступен,69.75 , 110.25
+695,US30320C1036,FTCI,FTC Solar, Акции,Нет,61.56 , 90.44
+696,US22266T1097,CPNG,Coupang, Акции,Нет,32.76 , 39.24
+697,US18914F1030,CLOV,Clover Health Investments, Акции,Доступен,53.76 , 122.01
+698,US09075F1075,BNGO,Bionano Genomics, Акции,Нет,80.64 , 220.41
+699,IE00BKVD2N49,STX,SeagateSTX, Акции,Доступен,33.58 , 40.42
+700,US03783T1034,APPH,AppHarvestAPPH, Акции,Нет,53.76 , 74.24
+701,US1508376076,CVM,CEL SCI CorporationCVM, Акции,Нет,56.44 , 76.89
+702,US4491091074,HYLN,Hyliion Holdings Corp.HYLN, Акции,Нет,75 , 131.04
+703,US14817C1071,SAVA,Cassava SciencesSAVA, Акции,Нет,88.44 , 216.84
+704,US48214T3059,GRUB,АДР Just Eat Takeaway.com N.V.GRUB, Акции,Нет,61.56 , 90.44
+705,US04634X1037,ASTR,Astra SpaceASTR, Акции,Нет,59.04 , 84.96
+706,US98985X1000,ZY,Zymergen Inc.ZY, Акции,Нет,75 , 125
+707,US7707001027,HOOD,Robinhood Markets, Акции,Доступен,66.36 , 220.41
